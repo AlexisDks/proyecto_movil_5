@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459728410521",
+    "project_id": "fanaticride",
+    "storage_bucket": "fanaticride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459728410521:android:da6951f9f7f62d3b60e508",
+        "android_client_info": {
+          "package_name": "com.cibertec.fanaticride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459728410521-ntnuo206c8trtb40ksct0c0hlima2dms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUq5KYgfgriVDGLYztuDC-VXXs4rgwWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459728410521-ntnuo206c8trtb40ksct0c0hlima2dms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
